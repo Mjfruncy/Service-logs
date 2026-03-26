@@ -1,8 +1,11 @@
 Log servis #001
-Klien     : [REDACTED]
-Tanggal: April 2025
-Lokasi  : [REDACTED]
+
+-Klien     : [REDACTED]
+-Tanggal   : April 2025
+-Lokasi    : [REDACTED]
+
 Project Nekrokomputing: Menyelamatkan PC dari Zaman Dinosaurus
+
 Keluhan: PC tidak bisa menyala, kondisi PC kotor, CPU fan rusak, salah satu keping ram rusak, PSU rusak/dalam kondisi buruk
 Spesifikasi Awal:
 Mobo: ASUS DDR1
