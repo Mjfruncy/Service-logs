@@ -25,4 +25,4 @@ Repo ini gw bikin buat:
 ---
 
 # Kontak
-GitHub: [@username_lo]
+GitHub: @Mjfruncy
