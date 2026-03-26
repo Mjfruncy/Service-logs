@@ -5,7 +5,7 @@ Semua ditulis apa adanya — proses, gagal, sampe berhasil.
 
 ---
 
-# Daftar Log
+## Daftar Log
 
 | # | Judul | Tanggal | Status |
 |---|-------|---------|--------|
@@ -13,7 +13,7 @@ Semua ditulis apa adanya — proses, gagal, sampe berhasil.
 
 ---
 
-# Tentang Repo Ini
+## Tentang Repo Ini
 
 Gw bukan teknisi formal — semua yang gw tau hasil autodidak,
 trial & error, forum, dan YouTube.
@@ -24,5 +24,5 @@ Repo ini gw bikin buat:
 
 ---
 
-# Kontak
+## Kontak
 GitHub: @Mjfruncy
